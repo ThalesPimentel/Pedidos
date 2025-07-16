@@ -17,4 +17,4 @@ o nome do garçom que atendeu a mesa.
 
 A nota fiscal deverá ser apresentada em vídeo. Os nós referentes à mesa e aos pedidos que foram computados na nota fiscal deverão ser retirados de memória.
 
-Além disso, as operações de inserção / deleção / alteração / consulta de registros / consulta de nós servem tanto para as listas, quanto nos arquivos.
+Além disso, as operações de inserção / deleção / alteração / consulta de registros / consulta de nós, servem tanto para as listas, quanto para os arquivos.
